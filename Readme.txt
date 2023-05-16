@@ -9,3 +9,6 @@ If you refresh the page your data will not be affected as it runs on a HTTP serv
 
 You can Start the program by running :
 npm start or yarn start command in your terminal.
+
+
+If you want to know more about this project feel free to ping me at- devdivya758@gmail.com
